@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    
+}
+
+ul li {
+    list-style-type:georgian;
+}
