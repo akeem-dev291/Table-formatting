@@ -76,6 +76,7 @@ table,th,td {
     border: 1px solid #acacac;
     border-collapse: collapse;
     padding: 10px;
+    cursor: pointer;
 }
 
 tr:nth-child(even) {
